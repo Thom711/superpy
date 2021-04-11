@@ -1,0 +1,22 @@
+{
+    "stock": [
+        {
+            "product_name": "Cheese",
+            "buy_date": "2021-04-02",
+            "buy_price": 5.65,
+            "expiration_date": "2021-06-06"
+        },
+        {
+            "product_name": "Pillows",
+            "buy_date": "2021-02-07",
+            "buy_price": 9.85,
+            "expiration_date": "2035-01-01"
+        },
+        {
+            "product_name": "Chorizo",
+            "buy_date": "2021-03-01",
+            "buy_price": 3.99,
+            "expiration_date": "2021-05-01"
+        }
+    ]
+}
