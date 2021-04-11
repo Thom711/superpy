@@ -9,6 +9,7 @@ Before first usage run this command: python main.py init
 Remember: Prepend each command with: python main.py
 
 You can run the following commands:
+    - '--help' : List of all commands and optional arguments.
 
     - 'reinit' : Clear the stock and sold files, reset the id counters.
 
